@@ -36,4 +36,3 @@ while True:
 print("\nChat History:")
 for msg in chat_history:
     print(f"{msg.type.capitalize()} - {msg.content}")
-
